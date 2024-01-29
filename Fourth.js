@@ -3,7 +3,7 @@ function A(){
     return(
         <p>
             Hello everyone
-            I am A
+            I am A Component
         </p>
     );
 }
